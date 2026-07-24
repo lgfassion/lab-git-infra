@@ -1,1 +1,1 @@
-resource "aws_s3_bucket" "logs" { bucket = "meu-bucket-de-logs-v1" }
+resource "aws_s3_bucket" "logs" { bucket = "meu-bucket-ALTERADO-NO-MAC" }
